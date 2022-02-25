@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True copy of the instrument of association that the Protestants of England entred into, in the 27th year of Queen Elizabeth, against a popish conspiracy with an act made upon the same, for the security of the Queen's Most Royal Person.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63488</idno>
+            <idno type="STC">Wing T2644</idno>
+            <idno type="STC">ESTC R222385</idno>
+            <idno type="EEBO-CITATION">13799224</idno>
+            <idno type="OCLC">ocm 13799224</idno>
+            <idno type="VID">101917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True copy of the instrument of association that the Protestants of England entred into, in the 27th year of Queen Elizabeth, against a popish conspiracy with an act made upon the same, for the security of the Queen's Most Royal Person.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Everingham, and sold by E. Whitlock near Stationers-Hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The association drawn up and signed by the High Court of Parliament now assembled, in the 24th. of February, 1695/6": p. 8.  This version includes the words "Rightful and Lawful King," which were changed in the final version.  Cf. Burnet, G.  Hist. of his own times, 1833, IV, 305-306.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Sources.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:101917:1"/>
+            <!-- PDF PAGE 63 -->
+            <pb facs="tcp:101917:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 63 -->
+            <head>A TRUE COPY Of the Inſtrument of ASSOCIATION That the <hi>Proteſtants</hi> of <hi>England</hi> entred into, in the <hi>27th.</hi> Year of Queen <hi>Elizabeth;</hi> againſt a <hi>Popiſh</hi> Conſpiracy. With an <hi>Act</hi> made upon the ſame, for the ſecurity of the Queen's Moſt Royal Perſon.</head>
+            <p>FOraſmuch as Almighty God hath Ordained <hi>Kings, Queens,</hi> and <hi>Princes,</hi> to have Dominion and Rule over all their Subjects, and to preſerve them in the Poſſeſſion and Obſerva<g ref="char:EOLhyphen"/>tion of the true Chriſtian Religion, according to his Holy Word and Commandment: And in like ſort, That all Subjects ſhould <hi>Love, Fear,</hi> and <hi>Obey</hi> their Sovereign Princes, being <hi>Kings</hi> or <hi>Queens,</hi> to the ut<g ref="char:EOLhyphen"/>moſt of their Power; at all times, to Withſtand, Purſue, and Sup<g ref="char:EOLhyphen"/>preſs all manner of Perſons that ſhall by any means intend and at<g ref="char:EOLhyphen"/>tempt any thing dangerous or hurtful to the Honor, States, or Per<g ref="char:EOLhyphen"/>ſons of their Sovereigns.</p>
+            <p>Therefore, we whoſe Names are or ſhall be Subſcribed to this Wri<g ref="char:EOLhyphen"/>ting, <hi>being Natural-born Subjects of this Realm of</hi> England, and having ſo Gracious a Lady our Sovereign <hi>Elizabeth,</hi> by the Ordinance of God, our moſt Rightful Queen, Reigning over us theſe many Years with
+<pb n="2" facs="tcp:101917:2"/>
+               <!-- PDF PAGE 64 -->great Felicity, to our Ineſtimable Comfort: And finding lately by divers <hi>Depoſitions, Confeſſions,</hi> and ſundry <hi>Advertiſements, out of Foreign parts from Credible Perſons,</hi> well known to Her <hi>Majeſties Council,</hi> and to divers others; that for the furtherance and advancement of ſome pre<g ref="char:EOLhyphen"/>tended Title to the Crown, it hath been manifeſted that the <hi>Life</hi> of our Gracious Sovereign Lady Queen <hi>Elizabeth,</hi> hath been moſt dangerouſly expoſed to the Peril of Her Perſon; if Almighty God Her perpetual De<g ref="char:EOLhyphen"/>fender, of his Mercy had not revealed and withſtood the ſame. By whoſe Life, we and all other Her Majeſties True and Loyal Subjects, do enjoy an Ineſtimable Benefit of Peace in this Land, do for the Reaſons and Cau<g ref="char:EOLhyphen"/>ſes before alledged, not only acknowledg our ſelves moſt juſtly bound with our Lives and Goods for her Defence, in her ſafety, to perſecute, ſuppreſs, and withſtand all ſuch Pretenders, and all other her Enemies, of what Nation, Condition, and Degree, whatſoever they ſhall be, or by what Council or Title they ſhall pretend to be her Enemies, or to at<g ref="char:EOLhyphen"/>tempt any harm upon her Perſon; but do further think it our Bounden Duties, for the great benefit of Peace and Wealth, and Godly Govern<g ref="char:EOLhyphen"/>ment, we have more plentifully received theſe many Years, under Her Majeſties Government, than any of our Fore-fathers have done in any longer time of any other Progenitors, Kings of this Realm.</p>
+            <p>Do declare, and by this Writing make manifeſt, our Bounden Duties to our ſaid Sovereign Lady for her Safety. <hi>And to that end, we, and eve<g ref="char:EOLhyphen"/>ry of us, first calling to Witneſs the Name of Almighty God, do voluntarily and moſt willingly bind our ſelves, every one of us to the other, jointly and ſeverally in the Band of one firm and Loyal Society; and do hereby Vow and Promiſe by the MAJESTY of ALMIGHTY GOD, that with our whole Pow<g ref="char:EOLhyphen"/>ers, Bodies, Lives, and Goods, and with our Children and Servants; we, and every of us, will faithfully ſerve and humbly obey our ſaid Sovereign La<g ref="char:EOLhyphen"/>dy Queen</hi> Elizabeth, <hi>againſt all States, Dignities, and earthly Powers what<g ref="char:EOLhyphen"/>ſoever; and will as well with our joynt and particular Forces, during our Lives, withſtand, offend, and purſue, as well by Forces of Arms, as by all other means of Revenge; all manner of Perſons, of what State ſoever they ſhall be and their Abettors, that ſhall attempt any Act, Council, or Conſent to any thing that ſhall tend to the harm of Her Majeſties Royal Perſon, and will never deſiſt from all manner of forcible purſuit againſt ſuch Perſons,
+<pb n="3" facs="tcp:101917:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 65 -->to the utter Extermination of them, their Counſellors, Aiders, and Abet<g ref="char:EOLhyphen"/>ters.</hi>
+            </p>
+            <p>And if any ſuch wicked Attempt againſt her moſt Royal Perſon, ſhall be taken in hand and procured, whereby any that have, may, or ſhall pretend Title to come to this Crown, by the untimely death of her Ma<g ref="char:EOLhyphen"/>jeſty, ſo wickedly procured (which God for his mercy ſake forbid) may be avenged; <hi>We do not only bind our ſelves both joyntly, and ſeverally ne<g ref="char:EOLhyphen"/>ver to allow, accept, or favour any ſuch pretended Succeſſor, by whom, or for whom any ſuch deteſtable Act ſhall be attempted or committed, as un<g ref="char:EOLhyphen"/>worthy of all Government in any Chriſtian Realm or Civil State.</hi>
+            </p>
+            <p>But do alſo further Vow and Proteſt, as we are moſt bound, and that in the <hi>Preſence of the Eternal and Everlaſting God,</hi> to Proſecute ſuch Per<g ref="char:EOLhyphen"/>ſon and Perſons to Death with our joynt or practical Forces, and to ask the utmoſt Revenge upon them that by any means, we or any of us can deviſe and do, or cauſe to be deviſed and done for their utter overthrow and Extirpation.</p>
+            <p>And to the better <hi>Corroboration</hi> of this our <hi>Royal Band and Aſſociation,</hi> we do alſo teſtifie by this Writing, that we do confirm the Contents hereof by our <hi>Oaths</hi> Corporally taken upon the <hi>Holy Evangeliſts,</hi> with this expreſs Condition; that no one of us ſhall for any reſpect of <hi>Per<g ref="char:EOLhyphen"/>ſons</hi> or <hi>Cauſes,</hi> or for <hi>Fear</hi> or <hi>Reward,</hi> ſeparate our ſelves from this AS<g ref="char:EOLhyphen"/>SOCIATION, or fail in the Proſecution thereof, <hi>during our Lives,</hi> upon Pain of being by the reſt of us Proſecuted, and <hi>Suppreſſed as Per<g ref="char:EOLhyphen"/>jured Perſons, and Publick Enemies to God, Our Queen and to our Native Country.</hi> To which Puniſhments and Pains we do voluntarily ſubmit our ſelves, and every of us, without benefit of any Colour and Pre<g ref="char:EOLhyphen"/>tence.</p>
+            <p>In Witneſs of all which promiſes to be inviolably kept, we do to this Writing put our Hands and Seals; and ſhall be moſt ready to accept and admit any others hereafter, to this Society and Aſſociation.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb n="4" facs="tcp:101917:4"/>
+            <!-- PDF PAGE 66 -->
+            <head>An Act for Proviſion to be made for the ſurety of the Queen's Majeſties moſt Royal Perſon, and the continuance of the Realm in Peace; Enacted in the 27th. Year of the Reign of Q. <hi>Elizabeth.</hi>
+            </head>
+            <p>FOraſmuch as the Good Felicity and Comfort of the whole Eſtate o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Realm conſiſteth (only next under God in the Surety and Pre<g ref="char:EOLhyphen"/>ſervation of the Queen's Moſt Excellent Majeſty: And for that it hath manifeſtly appeared, that Sundry wicked Plots, and means have of lat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been deviſed and laid, as well in Foreign Parts beyond the Seas, as alſo within this Realm, to the great endangering of her Highneſs's Moſt Roy<g ref="char:EOLhyphen"/>al Perſon, and to the utter Ruine of the whole Common-wealth, if by God's Merciful Providence the ſame had not been Revealed: Therefore for preventing of ſuch great Perils as might hereafter otherwiſe grow, by the like deteſtable and deviliſh Practices, at the humble Suite and earneſt Petition and deſire of the Lords Spiritual and Temporal and the Commons in this Preſent Parliament Aſſembled, and by the Authority of the ſame Parliament. Be it Enacted and Ordained, if a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any time after the end of this Preſent Seſſion of Parliament, any ope<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Invaſion or Rebellion ſhall be had or made into or within any of Her Ma<g ref="char:EOLhyphen"/>jeſties Realms or Dominions, or any Act attempted, tending to the Hur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Her Majeſties Moſt Royal Perſon, by or for any Perſon that ſhall o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may pretend any Title to the Crown of this Realm after Her Majeſties Deceaſe: Or if any thing ſhall be Compaſſed or Imagined, tending t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the hurt of Her Majeſties Royal Perſon, by any Perſon or with the Pri<g ref="char:EOLhyphen"/>vity of any Perſon that ſhall or may Pretend Title to the Crown of thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Realm: That then by Her Majeſties Commiſſion under Her Great Sea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lords and others of Her Highneſſes Privy Council, and ſuch other Lords of Parliament to be named by Her Majeſties as with the ſaid Pri<g ref="char:EOLhyphen"/>vy Council ſhall make up the number of Twenty four at the leaſt, ha<g ref="char:EOLhyphen"/>ving with them for their Aſſiſtance in that behalf ſuch of the Judges o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Courts of Record at <hi>Weſtminſter,</hi> as Her Highneſs ſhall for that pur<g ref="char:EOLhyphen"/>poſe Aſſign and Appoint, or the more part of the ſame Council, Lord
+<pb n="5" facs="tcp:101917:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 67 -->and Judges, ſhall by Virtue of this Act have Authority to Examin all and every the Offences aforeſaid, and all Circumſtances thereof, and thereupon to give Sentence or Judgments as upon good Proof, the Matter ſhall appear unto them: And that after ſuch Sentence or Judgment given, and Declaration thereof made and Publiſhed, by Her Majeſties Proclama<g ref="char:EOLhyphen"/>tion, under the Great Seal of <hi>England,</hi> all Perſons againſt whom ſuch Sentence or Judgment ſhall be ſo given and Publiſhed, ſhall be Excluded and Diſabled for ever to have or Claim, or to pretend to have or Claim the Crown of this Realm, or any of Her Majeſties Dominions, any for<g ref="char:EOLhyphen"/>mer Law, or Statute whatſoever to the Contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding: And that thereupon all Her Highneſſes Subjects ſhall and may Lawfully by Virtue of this Act, and Her Majeſties Direction in that be<g ref="char:EOLhyphen"/>half, by all Forcible and Poſſible Means purſue to Death every ſuch Wicked Perſons, by whom, or by whoſe means, Aſſent or Privity, any ſuch Invaſion or Rebellion ſhall be in Form aforeſaid denounced to have been made, or ſuch Wicked Act Attempted, or other thing compaſſed or imagined againſt Her Majeſties Perſon, and all their Aiders, Comfortors and Abettors.</p>
+            <p>And if any ſuch deteſtable Act ſhall be Executed againſt Her High<g ref="char:EOLhyphen"/>neſs moſt Royal Perſon, whereby Her Majeſties Life ſhall be taken a<g ref="char:EOLhyphen"/>way (which God of his great Mercy forbid) that then every ſuch Per<g ref="char:EOLhyphen"/>ſon, by or for whom any ſuch Act ſhall be Executed, and their Iſſues being any wiſe Aſſenting or Privy to the ſame, ſhall by vertue of this Act, be excluded and diſabled for ever, to have or claim, or to pre<g ref="char:EOLhyphen"/>tend to have or claim the ſaid Crown of this Realm, or of any other Her Highneſs Dominions, any former Law or Statute whatſoever to the contrary, in any wiſe nonwithſtanding. And that all the Subjects of this Realm, and all other her Majeſties Dominions, ſhall and may Lawfully by vertue of this Act, by all forcible and poſſible means purſue to death every ſuch wicked Perſon, by whom, or by whoſe means, any ſuch deteſtable Fact ſhall be in form hereafter expreſſed, denounced to have been Committed, and alſo their Iſſues being any way aſſenting or privy to the ſame, and all their Aiders, Comforters, and Abbetters in that behalf.</p>
+            <p>And to the end that the intenſion of this Law may be effectually Exe<g ref="char:EOLhyphen"/>cuted,
+<pb n="6" facs="tcp:101917:6"/>
+               <!-- PDF PAGE 68 -->if Her Majeſties Life ſhall be taken away, by any violent or un<g ref="char:EOLhyphen"/>natural means (which God deſend:) Be it further enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, that the Lords and others which ſhall be of Her Majeſties Privy Council at the time of ſuch her deceaſe, or the more part of the ſame Council, joyning unto them for their better Aſſiſtance, five other Earls, and ſeven other Lords of Parliament at the leaſt, (foreſee<g ref="char:EOLhyphen"/>ing that none of the ſaid Earls, Lords or Council be known to be Perſons that may make any Title to the Crown) thoſe Perſons which were chief Juſtices of either Bench, Maſter of the Roles, and chief Baron of the Ex<g ref="char:EOLhyphen"/>chequer at the time of Her Majeſties death, or in default of the ſaid Ju<g ref="char:EOLhyphen"/>ſtices, Maſter of the Roles, and Chief Baron, ſome other of thoſe which were Juſtices of ſome of the Courts of Records at <hi>Weſtminſter,</hi> at the time of her Highneſs deceaſe, to ſupply their places, or any twenty four, or more of them, whereof eight to be Lords of Parliament, not being of the Privy Council, ſhall to the uttermoſt of their power and skill examine the Cauſe and Manner of ſuch Her Majeſties death, and what Perſons ſhall be any way guilty thereof, and all Circumſtances concerning the ſame according to the true meaning of this Act, and thereupon ſhall by open Parliament publiſh the ſame, and without any delay by all forcible and poſſible means proſecute to death, all ſuch as ſhall be found to be Offenders therein, and all their Aiders and Abetters: And for the doing thereof, and for the withſtanding and ſuppreſſing of all ſuch Power and Force, as ſhall any way be Levy'd or ſtirred in diſturbance of the due Ex<g ref="char:EOLhyphen"/>ecution of this Law, ſhall by vertue of this Act, have Power and Autho<g ref="char:EOLhyphen"/>rity not only to raiſe and uſe ſuch Force as ſhall in that behalf be needful and convenient. But alſo to uſe all other means and things poſſible and neceſſary for the Maintenance of the ſame Force, and Proſecution of the ſaid Offenders. And if any ſuch Power and Force ſhall be Levied or ſtirred in diſturbance of the due Execution of this Law, by any Perſon that ſhall or may pretend any Title to the Crown of this Realm, where<g ref="char:EOLhyphen"/>by this Law may not in all things be fully Executed, according to the effect and true meaning of the ſame: That then every Perſon ſhall by virtue of this Act be therefore excluded and diſabled for ever to have or Claim, or to pretend to have or Claim the Crown of this Realm, or of any other her Highneſs Dominions, any former Law or Statute what<g ref="char:EOLhyphen"/>ſoever to the contrary notwithſtanding.</p>
+            <p>
+               <pb n="7" facs="tcp:101917:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 68 -->
+And be it further enacted by the Authority aforeſaid, that all and every the Subjects of all Her Majeſties Realms and Dominions, ſhall to the uttermoſt of their Power, aid and aſſiſt the ſaid Counſel and all other the Lords and other Perſons to be adjoyned unto them for Aſſiſtance, as is aforeſaid in all things to be done and executed according to the effect and intention of this Law: And that no Subject of this Realm ſhall in any wiſe be Impeached in Body, Lands or Goods, at any time hereafter, for any thing to be done or executed according to the Tenour of this Law, any Law or Statute heretofore made to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding. And whereas of late many of Her Majeſties good and faithfull Subjects, have in the name of God, and with the Teſtimony of good Con<g ref="char:EOLhyphen"/>ſciences, by one uniform manner of Writing under their hands and ſeals, and by their ſeveral Oaths voluntaarily take, joyned themſelves together in one Bond and ASSOCIATION, to withſtand and revenge to the uttermoſt all ſuch malicious Actions and Attempts againſt Her Majeſties moſt Royal Perſon. Now for the full explaining of all ſuch Ambiguities and Queſtions as otherwiſe might happen to grow by reaſon of any Sini<g ref="char:EOLhyphen"/>ſter or wrong Conſtruction, or Interpretation to be made or Inferred of or upon the words or meaning thereof, be it declared and enacted, by the Authority of this preſent Parliament, that the ſame ASSOCIATION and every Article and Sentance therein contained, as we concerning the diſallowing, excluding, or diſabling of any Perſon that may or ſhall pre<g ref="char:EOLhyphen"/>tend any Title to come to the Crown of this Realm, as alſo for the purſu<g ref="char:EOLhyphen"/>ing and taking revenge of any Perſon for any ſuch wicked Act or Attempt as is mentioned in the ſame ASSOCIATION, ſhall and ought to be in all things expounded and adjudged according to the true Intent and Meaning of this Act, and not otherwiſe, nor againſt any other Perſon or Perſons.</p>
+         </div>
+         <div type="document">
+            <pb n="8" facs="tcp:101917:7"/>
+            <!-- PDF PAGE 69 -->
+            <head>The Aſſociation drawn up and Signed by the High Court of Parliament now Aſſembled, in the 24th. of <hi>February, 1695/6.</hi>
+            </head>
+            <p>WHereas there has been a Horrid and Deteſtable Conſpiracy, Formed and Carried on by Papiſts, and other Wicked and Traiterous Perſons, for Aſſaſſina<g ref="char:EOLhyphen"/>ting His Majeſty's Royal Perſon, in Order to encourage an Invaſion from <hi>France,</hi> to ſubvert our Religion, Laws, and Liberty: We whoſe Names are hereunto ſubſcribed, do heartily, ſincerely, and ſolemnly Profeſs, Teſtifie, and De<g ref="char:EOLhyphen"/>clare, that His Preſent <hi>Majeſty,</hi> King <hi>William,</hi> is Rightful and Lawful King of theſe Realms. And we do mutually Promiſe and Engage to ſtand by, and aſſiſt each other, to the utmoſt of our Power, in the Support and Defence of His Majeſty's Moſt Sacred Perſon and Government, againſt the Late King <hi>James,</hi> and all his Adherents. And in Caſe His Majeſty come to any Violent or Untimely Death, (which God forbid) We do hereby further Freely and Unanimouſly oblige our ſelves, to Unite, Aſſociate, and ſtand by each o<g ref="char:EOLhyphen"/>ther, in Revenging the ſame upon his Enemies, and their Adherents; and in ſupporting and defending the Succeſſion of the Crown, according to an Act made in the firſt Year of the Reign of King <hi>William</hi> and Queen <hi>Mary,</hi> Intituled, an Act Declaring the Rights and Liberties of the Subject, and ſettling the Succeſſion of the Crown.</p>
+            <div type="note">
+               <p>☞ In the <hi>13th.</hi> Year of the ſaid Queen was Enacted Two excellent Acts, <hi>viz.</hi> An Act where<g ref="char:EOLhyphen"/>by certain Offences were made Treaſon: The <hi>2d.</hi> againſt Fugitives over the Sea.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>John Everingham,</hi> and Sold by <hi>E. Whitlock</hi> near <hi>Stationers-Hall.</hi> 1695,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
